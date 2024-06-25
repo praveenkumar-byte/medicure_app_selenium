@@ -41,6 +41,13 @@
     <version>4.21.0</version>
 </dependency>
 
+<dependency>
+  <groupId>org.seleniumhq.selenium</groupId>
+  <artifactId>selenium-devtools-v126</artifactId>
+  <version>4.22.0</version>
+</dependency>
+
+
  <!-- for screenshot-->
     <dependency>
     <groupId>commons-io</groupId>
